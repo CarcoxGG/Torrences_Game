@@ -5,50 +5,35 @@ using UnityEngine;
 
 public class Character_Controller : MonoBehaviour
 {
-    private RaycastHit2D hit;
-    private BoxCollider2D boxCollider;
-    public float speed = 4f;
+   public float speed;
+   private Rigidbody2D myRigidbody;
+   private Vector3 change;
+   private Animator animator;
 
-    
-
-    Animator anim;
-    Rigidbody2D rb2d;
-    Vector2 mov;
-    // Start is called before the first frame update
     void Start(){
-        anim = GetComponent<Animator>();
-        rb2d = GetComponent<Rigidbody2D>();
-        boxCollider = GetComponent<BoxCollider2D>();
+        animator = GetComponent<Animator>();
+        myRigidbody = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
+   
     void Update(){
-        mov = new Vector2(
-            Input.GetAxisRaw("Horizontal"),
-            Input.GetAxisRaw("Vertical")
-        );
+        change = Vector3.zero;
+        change.x = Input.GetAxisRaw("Horizontal");
+        change.y = Input.GetAxisRaw("Vertical");
+        if(change != Vector3.zero)
+        {
+            Movecharacter();
+            animator.SetFloat("moveX", change.x);
+            animator.SetFloat("moveY", change.y);
+        }
 
-        anim.SetFloat("movX", mov.x);
-        anim.SetFloat("movY", mov.y);
+       
     }
-    private void FixedUpdate(){
-        
-        rb2d.MovePosition(rb2d.position + mov * speed * Time.deltaTime);
-        float x = Input.GetAxisRaw("Horizontal");
-        float y = Input.GetAxisRaw("Vertical");
-
-        hit = Physics2D.BoxCast(transform.position, boxCollider.size, 0, new Vector2(0,mov.y),Mathf.Abs(mov.y * Time.deltaTime), LayerMask.GetMask("Actor","Blocking"));
-
-        if (hit.collider == null)
-        {
-            transform.Translate(0, mov.y * Time.deltaTime, 0);
-        }
-
-
-        hit = Physics2D.BoxCast(transform.position, boxCollider.size, 0, new Vector2(mov.x, 0), Mathf.Abs(mov.x * Time.deltaTime), LayerMask.GetMask("Actor", "Blocking"));
-        if (hit.collider == null)
-        {
-            transform.Translate(0, mov.x * Time.deltaTime, 0, 0);
-        }
+    
+    void Movecharacter()
+    {
+        myRigidbody.MovePosition(
+            transform.position + change * speed * Time.deltaTime
+        );
     }
 }
