@@ -20,14 +20,23 @@ public class Character_Controller : MonoBehaviour
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
+        UpdateAnimationAndMove();
+
+       
+    }
+
+    void UpdateAnimationAndMove()
+    {
         if(change != Vector3.zero)
         {
             Movecharacter();
-            animator.SetFloat("moveX", change.x);
-            animator.SetFloat("moveY", change.y);
+            animator.SetFloat("MoveX", change.x);
+            animator.SetFloat("MoveY", change.y);
+            animator.SetBool("Move", true);
+        }else{
+            animator.SetBool("Move", false);
         }
 
-       
     }
     
     void Movecharacter()
