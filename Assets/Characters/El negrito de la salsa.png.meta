@@ -1,0 +1,4380 @@
+fileFormatVersion: 2
+guid: 0c8deae6cf307ef428b42c0c2647485a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -803676768629147475
+    second: El negrito de la salsa_0
+  - first:
+      213: -4197155996930765929
+    second: El negrito de la salsa_1
+  - first:
+      213: 5399367331205038630
+    second: El negrito de la salsa_2
+  - first:
+      213: -1734640518138870392
+    second: El negrito de la salsa_3
+  - first:
+      213: 4751862607651128775
+    second: El negrito de la salsa_4
+  - first:
+      213: -5165482095377652844
+    second: El negrito de la salsa_5
+  - first:
+      213: 835539411584750810
+    second: El negrito de la salsa_6
+  - first:
+      213: 5700062230245232770
+    second: El negrito de la salsa_7
+  - first:
+      213: -1729017120161169489
+    second: El negrito de la salsa_8
+  - first:
+      213: -9203103599167144660
+    second: El negrito de la salsa_9
+  - first:
+      213: -4997030652444849729
+    second: El negrito de la salsa_10
+  - first:
+      213: -4676291700844672417
+    second: El negrito de la salsa_11
+  - first:
+      213: -6674861709018592992
+    second: El negrito de la salsa_12
+  - first:
+      213: -4900400340706564565
+    second: El negrito de la salsa_13
+  - first:
+      213: -1066560301899543096
+    second: El negrito de la salsa_14
+  - first:
+      213: -9081748380397541950
+    second: El negrito de la salsa_15
+  - first:
+      213: -1637053563485949922
+    second: El negrito de la salsa_16
+  - first:
+      213: -3794683582410237880
+    second: El negrito de la salsa_17
+  - first:
+      213: -4337086791118506085
+    second: El negrito de la salsa_18
+  - first:
+      213: -5362751232417232738
+    second: El negrito de la salsa_19
+  - first:
+      213: 7202639505023263721
+    second: El negrito de la salsa_20
+  - first:
+      213: -5808081113371724083
+    second: El negrito de la salsa_21
+  - first:
+      213: -1603915491046019798
+    second: El negrito de la salsa_22
+  - first:
+      213: 7306849428027755161
+    second: El negrito de la salsa_23
+  - first:
+      213: 1903669878577793649
+    second: El negrito de la salsa_24
+  - first:
+      213: -3359110030004839508
+    second: El negrito de la salsa_25
+  - first:
+      213: 8738659414801528305
+    second: El negrito de la salsa_26
+  - first:
+      213: -5346877984493951146
+    second: El negrito de la salsa_27
+  - first:
+      213: -8346122575645161608
+    second: El negrito de la salsa_28
+  - first:
+      213: -9219972701831289198
+    second: El negrito de la salsa_29
+  - first:
+      213: 8185606070532738014
+    second: El negrito de la salsa_30
+  - first:
+      213: -4754918238115085363
+    second: El negrito de la salsa_31
+  - first:
+      213: -3642172777216888603
+    second: El negrito de la salsa_32
+  - first:
+      213: -3356037354476680932
+    second: El negrito de la salsa_33
+  - first:
+      213: 330758012584490784
+    second: El negrito de la salsa_34
+  - first:
+      213: 8440171676143411515
+    second: El negrito de la salsa_35
+  - first:
+      213: -5175049796457129656
+    second: El negrito de la salsa_36
+  - first:
+      213: -7286375605156141407
+    second: El negrito de la salsa_37
+  - first:
+      213: -3275050653264192137
+    second: El negrito de la salsa_38
+  - first:
+      213: -7803872797613587764
+    second: El negrito de la salsa_39
+  - first:
+      213: 4035035473833735993
+    second: El negrito de la salsa_40
+  - first:
+      213: -7462194162582488575
+    second: El negrito de la salsa_41
+  - first:
+      213: -2928559109910230633
+    second: El negrito de la salsa_42
+  - first:
+      213: -5077205219234988476
+    second: El negrito de la salsa_43
+  - first:
+      213: -917428055110659077
+    second: El negrito de la salsa_44
+  - first:
+      213: -6355750323806054290
+    second: El negrito de la salsa_45
+  - first:
+      213: 947515647918041181
+    second: El negrito de la salsa_46
+  - first:
+      213: -6988971652449467699
+    second: El negrito de la salsa_47
+  - first:
+      213: 6261947990059133660
+    second: El negrito de la salsa_48
+  - first:
+      213: -7790424883512105684
+    second: El negrito de la salsa_49
+  - first:
+      213: -5797226530161087499
+    second: El negrito de la salsa_50
+  - first:
+      213: -5658501072517247658
+    second: El negrito de la salsa_51
+  - first:
+      213: 2407752950230270273
+    second: El negrito de la salsa_52
+  - first:
+      213: 2287449134894928075
+    second: El negrito de la salsa_53
+  - first:
+      213: -3735664039085356134
+    second: El negrito de la salsa_54
+  - first:
+      213: -150049177362034379
+    second: El negrito de la salsa_55
+  - first:
+      213: -7764282322692635725
+    second: El negrito de la salsa_56
+  - first:
+      213: -8335827445230430533
+    second: El negrito de la salsa_57
+  - first:
+      213: -832486499685393365
+    second: El negrito de la salsa_58
+  - first:
+      213: -4104887429415295724
+    second: El negrito de la salsa_59
+  - first:
+      213: -2100396704471258817
+    second: El negrito de la salsa_60
+  - first:
+      213: -2869479809907908683
+    second: El negrito de la salsa_61
+  - first:
+      213: -838257808299113380
+    second: El negrito de la salsa_62
+  - first:
+      213: -7401342077670951191
+    second: El negrito de la salsa_63
+  - first:
+      213: -8399633916846586111
+    second: El negrito de la salsa_64
+  - first:
+      213: 2581966781075168399
+    second: El negrito de la salsa_65
+  - first:
+      213: -3013756703672106589
+    second: El negrito de la salsa_66
+  - first:
+      213: -2855187026913086275
+    second: El negrito de la salsa_67
+  - first:
+      213: 9031843894993235509
+    second: El negrito de la salsa_68
+  - first:
+      213: -5953670112575029995
+    second: El negrito de la salsa_69
+  - first:
+      213: 8585622610069113202
+    second: El negrito de la salsa_70
+  - first:
+      213: 1098166689984317044
+    second: El negrito de la salsa_71
+  - first:
+      213: -4859879581765815783
+    second: El negrito de la salsa_72
+  - first:
+      213: 7300285706529130828
+    second: El negrito de la salsa_73
+  - first:
+      213: 7602764989359355651
+    second: El negrito de la salsa_74
+  - first:
+      213: -8411957682693602912
+    second: El negrito de la salsa_75
+  - first:
+      213: -5079093997433256532
+    second: El negrito de la salsa_76
+  - first:
+      213: 8683155828096400676
+    second: El negrito de la salsa_77
+  - first:
+      213: 245562162210496594
+    second: El negrito de la salsa_78
+  - first:
+      213: -1049461230914092009
+    second: El negrito de la salsa_79
+  - first:
+      213: 3464434436675830928
+    second: El negrito de la salsa_80
+  - first:
+      213: 5342173883913657792
+    second: El negrito de la salsa_81
+  - first:
+      213: -2503229824096108034
+    second: El negrito de la salsa_82
+  - first:
+      213: 1404732003697630690
+    second: El negrito de la salsa_83
+  - first:
+      213: -5056240213190808610
+    second: El negrito de la salsa_84
+  - first:
+      213: -2880805713929394613
+    second: El negrito de la salsa_85
+  - first:
+      213: -2791717794852153639
+    second: El negrito de la salsa_86
+  - first:
+      213: 8262309784019792061
+    second: El negrito de la salsa_87
+  - first:
+      213: -4879997006593590598
+    second: El negrito de la salsa_88
+  - first:
+      213: -5721615334147743570
+    second: El negrito de la salsa_89
+  - first:
+      213: -2109103490684432588
+    second: El negrito de la salsa_90
+  - first:
+      213: -4571513535186671148
+    second: El negrito de la salsa_91
+  - first:
+      213: -1684789986860645542
+    second: El negrito de la salsa_92
+  - first:
+      213: 3972872897835790300
+    second: El negrito de la salsa_93
+  - first:
+      213: 2531842853543457817
+    second: El negrito de la salsa_94
+  - first:
+      213: 2332224734834830221
+    second: El negrito de la salsa_95
+  - first:
+      213: 2797040257130821178
+    second: El negrito de la salsa_96
+  - first:
+      213: 5406672176857023104
+    second: El negrito de la salsa_97
+  - first:
+      213: -780373181235857488
+    second: El negrito de la salsa_98
+  - first:
+      213: 5876307511224053192
+    second: El negrito de la salsa_99
+  - first:
+      213: -5440092018588308174
+    second: El negrito de la salsa_100
+  - first:
+      213: 7653689592009820224
+    second: El negrito de la salsa_101
+  - first:
+      213: 3666217583020662668
+    second: El negrito de la salsa_102
+  - first:
+      213: -8374797688794551470
+    second: El negrito de la salsa_103
+  - first:
+      213: 1140931089191848116
+    second: El negrito de la salsa_104
+  - first:
+      213: 682167188840171523
+    second: El negrito de la salsa_105
+  - first:
+      213: -5677300883219227533
+    second: El negrito de la salsa_106
+  - first:
+      213: 1853130011607871136
+    second: El negrito de la salsa_107
+  - first:
+      213: -1509537954131314454
+    second: El negrito de la salsa_108
+  - first:
+      213: -5506111100929460792
+    second: El negrito de la salsa_109
+  - first:
+      213: -8646898886046607761
+    second: El negrito de la salsa_110
+  - first:
+      213: 5881126758934650862
+    second: El negrito de la salsa_111
+  - first:
+      213: -8385171949556367965
+    second: El negrito de la salsa_112
+  - first:
+      213: 5415423866007129527
+    second: El negrito de la salsa_113
+  - first:
+      213: -6572922693633771721
+    second: El negrito de la salsa_114
+  - first:
+      213: -1503904588772745086
+    second: El negrito de la salsa_115
+  - first:
+      213: -2872535733645757508
+    second: El negrito de la salsa_116
+  - first:
+      213: 3006115634133602793
+    second: El negrito de la salsa_117
+  - first:
+      213: -1469485150730773814
+    second: El negrito de la salsa_118
+  - first:
+      213: 2159900334663515039
+    second: El negrito de la salsa_119
+  - first:
+      213: 1032840180356552044
+    second: El negrito de la salsa_120
+  - first:
+      213: -8617079375076326668
+    second: El negrito de la salsa_121
+  - first:
+      213: 3170681627877211867
+    second: El negrito de la salsa_122
+  - first:
+      213: -5894663361805817268
+    second: El negrito de la salsa_123
+  - first:
+      213: 1485977819739417949
+    second: El negrito de la salsa_124
+  - first:
+      213: 5600641143803778440
+    second: El negrito de la salsa_125
+  - first:
+      213: 9199417043907403675
+    second: El negrito de la salsa_126
+  - first:
+      213: 9024740401597805848
+    second: El negrito de la salsa_127
+  - first:
+      213: -64423839592349376
+    second: El negrito de la salsa_128
+  - first:
+      213: 1949591090467833814
+    second: El negrito de la salsa_129
+  - first:
+      213: 893693872215591943
+    second: El negrito de la salsa_130
+  - first:
+      213: -5447304041999580739
+    second: El negrito de la salsa_131
+  - first:
+      213: 8572042234272427953
+    second: El negrito de la salsa_132
+  - first:
+      213: 2225338368666176167
+    second: El negrito de la salsa_133
+  - first:
+      213: 3995401023871156622
+    second: El negrito de la salsa_134
+  - first:
+      213: -7863022767123782303
+    second: El negrito de la salsa_135
+  - first:
+      213: -6652871468284965490
+    second: El negrito de la salsa_136
+  - first:
+      213: 3755543731962016533
+    second: El negrito de la salsa_137
+  - first:
+      213: -5771948063855480685
+    second: El negrito de la salsa_138
+  - first:
+      213: -6615150534604440102
+    second: El negrito de la salsa_139
+  - first:
+      213: -354398455574235303
+    second: El negrito de la salsa_140
+  - first:
+      213: 7316301448862072569
+    second: El negrito de la salsa_141
+  - first:
+      213: -7109604367152289470
+    second: El negrito de la salsa_142
+  - first:
+      213: 5062112597932540990
+    second: El negrito de la salsa_143
+  - first:
+      213: -5862493454526994695
+    second: El negrito de la salsa_144
+  - first:
+      213: -3509590093344695629
+    second: El negrito de la salsa_145
+  - first:
+      213: -4896819075816229042
+    second: El negrito de la salsa_146
+  - first:
+      213: 6763498893320550714
+    second: El negrito de la salsa_147
+  - first:
+      213: 3608918743949145114
+    second: El negrito de la salsa_148
+  - first:
+      213: -7540449280836037868
+    second: El negrito de la salsa_149
+  - first:
+      213: 8745509795690493849
+    second: El negrito de la salsa_150
+  - first:
+      213: 634655906161323629
+    second: El negrito de la salsa_151
+  - first:
+      213: -628474996122189783
+    second: El negrito de la salsa_152
+  - first:
+      213: -3138627566082203471
+    second: El negrito de la salsa_153
+  - first:
+      213: 5689667757256340770
+    second: El negrito de la salsa_154
+  - first:
+      213: -3441235226961166514
+    second: El negrito de la salsa_155
+  - first:
+      213: 4925455381977328979
+    second: El negrito de la salsa_156
+  - first:
+      213: 9022375233495144508
+    second: El negrito de la salsa_157
+  - first:
+      213: -1734575333666433770
+    second: El negrito de la salsa_158
+  - first:
+      213: -3527327516779577128
+    second: El negrito de la salsa_159
+  - first:
+      213: 1830275501545468549
+    second: El negrito de la salsa_160
+  - first:
+      213: -5992253314991490612
+    second: El negrito de la salsa_161
+  - first:
+      213: 7111790914611290082
+    second: El negrito de la salsa_162
+  - first:
+      213: 2578049423637367925
+    second: El negrito de la salsa_163
+  - first:
+      213: -1270858387753589358
+    second: El negrito de la salsa_164
+  - first:
+      213: 6617057773082579251
+    second: El negrito de la salsa_165
+  - first:
+      213: -7534027416676330197
+    second: El negrito de la salsa_166
+  - first:
+      213: 8813047643255593952
+    second: El negrito de la salsa_167
+  - first:
+      213: -7536334588319479795
+    second: El negrito de la salsa_168
+  - first:
+      213: -5312291317850576211
+    second: El negrito de la salsa_169
+  - first:
+      213: -2746907249007374910
+    second: El negrito de la salsa_170
+  - first:
+      213: 5214389423287888088
+    second: El negrito de la salsa_171
+  - first:
+      213: -3510891120034473518
+    second: El negrito de la salsa_172
+  - first:
+      213: -8174511879706038298
+    second: El negrito de la salsa_173
+  - first:
+      213: 1554209836661337157
+    second: El negrito de la salsa_174
+  - first:
+      213: 2249689592023432562
+    second: El negrito de la salsa_175
+  - first:
+      213: 1723139347509337960
+    second: El negrito de la salsa_176
+  - first:
+      213: 8118545157678771255
+    second: El negrito de la salsa_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: El negrito de la salsa_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1282
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da830abac34c8d4f0800000000000000
+      internalID: -803676768629147475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1282
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b8a08bbd4b0c5c0800000000000000
+      internalID: -4197155996930765929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1282
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622435c0bf76eea40800000000000000
+      internalID: 5399367331205038630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8854557a3a15de7e0800000000000000
+      internalID: -1734640518138870392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c18e7dd102f140800000000000000
+      internalID: 4751862607651128775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ef53f6658058b0800000000000000
+      internalID: -5165482095377652844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4195ffaae689b00800000000000000
+      internalID: 835539411584750810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1218
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280536fe560ba1f40800000000000000
+      internalID: 5700062230245232770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1218
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7936071c4108e0800000000000000
+      internalID: -1729017120161169489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1218
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2df5846902084080800000000000000
+      internalID: -9203103599167144660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb94945d81bf6aab0800000000000000
+      internalID: -4997030652444849729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5acb0169797a1fb0800000000000000
+      internalID: -4676291700844672417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029071df3a02e53a0800000000000000
+      internalID: -6674861709018592992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b266bf28ad74efbb0800000000000000
+      internalID: -4900400340706564565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd8eb96e01d231f0800000000000000
+      internalID: -1066560301899543096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5ece617f527f180800000000000000
+      internalID: -9081748380397541950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10f12e15740849e0800000000000000
+      internalID: -1637053563485949922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8485e6b0363965bc0800000000000000
+      internalID: -3794683582410237880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97b757da829fc3c0800000000000000
+      internalID: -4337086791118506085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e988bfcca2ea395b0800000000000000
+      internalID: -5362751232417232738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36b16f77ae4f360800000000000000
+      internalID: 7202639505023263721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1090
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6b2dafffc856fa0800000000000000
+      internalID: -5808081113371724083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1090
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2da47adb5fbdb9e0800000000000000
+      internalID: -1603915491046019798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1090
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4cd867d4276560800000000000000
+      internalID: 7306849428027755161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1090
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a8d322ba13b6a10800000000000000
+      internalID: 1903669878577793649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab1c1c993b0261d0800000000000000
+      internalID: -3359110030004839508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f53e583074f54970800000000000000
+      internalID: 8738659414801528305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a1e45dc21cc5b0800000000000000
+      internalID: -5346877984493951146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1026
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8774dc2bcbd9c2c80800000000000000
+      internalID: -8346122575645161608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1024
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2962c8c5da31c0080800000000000000
+      internalID: -9219972701831289198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb82691a5d199170800000000000000
+      internalID: 8185606070532738014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3cf191e03230eb0800000000000000
+      internalID: -4754918238115085363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1024
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0b36bf727647dc0800000000000000
+      internalID: -3642172777216888603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1024
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c971aec5fc61d0800000000000000
+      internalID: -3356037354476680932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1024
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02776b6f8a6179400800000000000000
+      internalID: 330758012584490784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3167d7eb63812570800000000000000
+      internalID: 8440171676143411515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 962
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8491733f0a78e28b0800000000000000
+      internalID: -5175049796457129656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6a892fdf791ea90800000000000000
+      internalID: -7286375605156141407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dd6c668ceac82d0800000000000000
+      internalID: -3275050653264192137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 962
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc288e9890313b390800000000000000
+      internalID: -7803872797613587764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b5f982635ff730800000000000000
+      internalID: 4035035473833735993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10af64e02f5f07890800000000000000
+      internalID: -7462194162582488575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7990116710bab57d0800000000000000
+      internalID: -2928559109910230633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 962
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e3db7d0c42a89b0800000000000000
+      internalID: -5077205219234988476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3d62c6b04a443f0800000000000000
+      internalID: -917428055110659077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68577431c6dbc7a0800000000000000
+      internalID: -6355750323806054290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 899
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58674d2670462d00800000000000000
+      internalID: 947515647918041181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2897eaf4f220f90800000000000000
+      internalID: -6988971652449467699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 899
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda227d0588e6e650800000000000000
+      internalID: 6261947990059133660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 899
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a5e808d9d2e390800000000000000
+      internalID: -7790424883512105684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 899
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb27439f2d1c8fa0800000000000000
+      internalID: -5797226530161087499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d417b2147f871b0800000000000000
+      internalID: -5658501072517247658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 834
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141cf592d8e0a6120800000000000000
+      internalID: 2407752950230270273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 834
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0df276ed6aebf10800000000000000
+      internalID: 2287449134894928075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 834
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bcd1e4951482cc0800000000000000
+      internalID: -3735664039085356134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5311f74711beaedf0800000000000000
+      internalID: -150049177362034379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 834
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b38f0c4d5abf3490800000000000000
+      internalID: -7764282322692635725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 834
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6961a8a11315c80800000000000000
+      internalID: -8335827445230430533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 834
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c91f170f96274f0800000000000000
+      internalID: -832486499685393365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4152cbea1a28807c0800000000000000
+      internalID: -4104887429415295724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 771
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39e69e5354e9d2e0800000000000000
+      internalID: -2100396704471258817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 771
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf9848e05f8d28d0800000000000000
+      internalID: -2869479809907908683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 770
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c544222f6f8ed54f0800000000000000
+      internalID: -838257808299113380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 769
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e675472896294990800000000000000
+      internalID: -7401342077670951191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 770
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107490fa4718e6b80800000000000000
+      internalID: -8399633916846586111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 771
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c18d78b1df4d320800000000000000
+      internalID: 2581966781075168399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 770
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a10c2ede3cfc26d0800000000000000
+      internalID: -3013756703672106589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 769
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ba85c6865068d0800000000000000
+      internalID: -2855187026913086275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 770
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2ad37b2e875d70800000000000000
+      internalID: 9031843894993235509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 706
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dfa169390506da0800000000000000
+      internalID: -5953670112575029995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 706
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2794bb87642462770800000000000000
+      internalID: 8585622610069113202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4768ea449c87d3f00800000000000000
+      internalID: 1098166689984317044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 707
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912bca5e44d3e8cb0800000000000000
+      internalID: -4859879581765815783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 706
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c788eb23df4560800000000000000
+      internalID: 7300285706529130828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077a850a72728960800000000000000
+      internalID: 7602764989359355651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 706
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a10e695e09b24b80800000000000000
+      internalID: -8411957682693602912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 706
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50c266bee6389b0800000000000000
+      internalID: -5079093997433256532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 706
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d7c076834c08870800000000000000
+      internalID: 8683155828096400676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25065d84c79686300800000000000000
+      internalID: 245562162210496594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71442dd12909f61f0800000000000000
+      internalID: -1049461230914092009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09481b9c3c4241030800000000000000
+      internalID: 3464434436675830928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 641
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdda07e7d6332a40800000000000000
+      internalID: 5342173883913657792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef18697dcbdb24dd0800000000000000
+      internalID: -2503229824096108034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed1505905c9e7310800000000000000
+      internalID: 1404732003697630690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb67b1b050a4d9b0800000000000000
+      internalID: -5056240213190808610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46a25267725508d0800000000000000
+      internalID: -2880805713929394613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d653bce473d149d0800000000000000
+      internalID: -2791717794852153639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 578
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0fbb419fe99a270800000000000000
+      internalID: 8262309784019792061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 578
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf40de394c64cb0800000000000000
+      internalID: -4879997006593590598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 579
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea022b20b2db890b0800000000000000
+      internalID: -5721615334147743570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 579
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fc73bbc85fab2e0800000000000000
+      internalID: -2109103490684432588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 578
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9ee4129a8be80c0800000000000000
+      internalID: -4571513535186671148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a534900fe6c6e98e0800000000000000
+      internalID: -1684789986860645542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 578
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf6745f9da722730800000000000000
+      internalID: 3972872897835790300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_94
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 578
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b19839a9e22320800000000000000
+      internalID: 2531842853543457817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_95
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 578
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba5382a0abd5020800000000000000
+      internalID: 2332224734834830221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 514
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ffb46b4511d620800000000000000
+      internalID: 2797040257130821178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 513
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0820d86f2bb580b40800000000000000
+      internalID: 5406672176857023104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 513
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7f13ce9be8b25f0800000000000000
+      internalID: -780373181235857488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 513
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd28752c86dc8150800000000000000
+      internalID: 5876307511224053192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2b96c129e084b0800000000000000
+      internalID: -5440092018588308174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04889d8022e573a60800000000000000
+      internalID: 7653689592009820224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 450
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fdc31a77501e230800000000000000
+      internalID: 3666217583020662668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b63a5afddb6cb80800000000000000
+      internalID: -8374797688794551470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 450
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8ca7cd7c665df00800000000000000
+      internalID: 1140931089191848116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308ce38a17b877900800000000000000
+      internalID: 682167188840171523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd4b42dec2631b0800000000000000
+      internalID: -5677300883219227533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea0806de3a7b910800000000000000
+      internalID: 1853130011607871136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae878058a3b0d0be0800000000000000
+      internalID: -1509537954131314454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5b347502d5693b0800000000000000
+      internalID: -5506111100929460792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f669870c64b000880800000000000000
+      internalID: -8646898886046607761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef1851b0a5fd9150800000000000000
+      internalID: 5881126758934650862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad7f16d982e1ab80800000000000000
+      internalID: -8385171949556367965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd07816053772b40800000000000000
+      internalID: 5415423866007129527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 322
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737fadd82a948c4a0800000000000000
+      internalID: -6572922693633771721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_115
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 322
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280ee1a9ebe012be0800000000000000
+      internalID: -1503904588772745086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 322
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3bd6738f3b228d0800000000000000
+      internalID: -2872535733645757508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1184efd3ed7b920800000000000000
+      internalID: 3006115634133602793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1bf38a075b9be0800000000000000
+      internalID: -1469485150730773814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bbdd529e189fd10800000000000000
+      internalID: 2159900334663515039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 258
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6517ebfba2655e00800000000000000
+      internalID: 1032840180356552044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f20b3fa6fbf96880800000000000000
+      internalID: -8617079375076326668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde7a7d3426800c20800000000000000
+      internalID: 3170681627877211867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aed0957e2f13ea0800000000000000
+      internalID: -5894663361805817268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_124
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 256
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d6da934f04f9410800000000000000
+      internalID: 1485977819739417949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8859cd2627979bd40800000000000000
+      internalID: 5600641143803778440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f56c29f05eaaf70800000000000000
+      internalID: 9199417043907403675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_127
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 256
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8157a5384915e3d70800000000000000
+      internalID: 9024740401597805848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_128
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 256
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410806fbde1b1ff0800000000000000
+      internalID: -64423839592349376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 256
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d70a9474c65e0b10800000000000000
+      internalID: 1949591090467833814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 256
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c8a5f77d9076c00800000000000000
+      internalID: 893693872215591943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 256
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1c019b5d94764b0800000000000000
+      internalID: -5447304041999580739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_132
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 256
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2475def206f670800000000000000
+      internalID: 8572042234272427953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 194
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa0569b47df1ee10800000000000000
+      internalID: 2225338368666176167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81821b0014827730800000000000000
+      internalID: 3995401023871156622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16527c0147ee0e290800000000000000
+      internalID: -7863022767123782303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d0b84e5a04ca3a0800000000000000
+      internalID: -6652871468284965490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5137a02602f5e1430800000000000000
+      internalID: 3755543731962016533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390f3e721dbe5efa0800000000000000
+      internalID: -5771948063855480685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addba2923a34234a0800000000000000
+      internalID: -6615150534604440102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957fc8a7b7ce41bf0800000000000000
+      internalID: -354398455574235303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe79118769b88560800000000000000
+      internalID: 7316301448862072569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24962521f7c955d90800000000000000
+      internalID: -7109604367152289470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e348ccc669c304640800000000000000
+      internalID: 5062112597932540990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6add0934d34aea0800000000000000
+      internalID: -5862493454526994695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba95fa976e6b4fc0800000000000000
+      internalID: -3509590093344695629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47fd98bef00b0cb0800000000000000
+      internalID: -4896819075816229042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a397e1fa866ccdd50800000000000000
+      internalID: 6763498893320550714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14765c0a74751230800000000000000
+      internalID: 3608918743949145114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131be08451fa5790800000000000000
+      internalID: -7540449280836037868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997b4dfc2da4e5970800000000000000
+      internalID: 8745509795690493849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e69512f20cec800800000000000000
+      internalID: 634655906161323629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9200ce122553747f0800000000000000
+      internalID: -628474996122189783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0eb699bda5174d0800000000000000
+      internalID: -3138627566082203471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f1491ea2c5fe40800000000000000
+      internalID: 5689667757256340770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 130
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f3b642bc64e30d0800000000000000
+      internalID: -3441235226961166514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d6bcfd29bba5440800000000000000
+      internalID: 4925455381977328979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_157
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 130
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3892c6e87ae53d70800000000000000
+      internalID: 9022375233495144508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61558a89cec8de7e0800000000000000
+      internalID: -1734575333666433770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d084e3ef4a6c0fc0800000000000000
+      internalID: -3527327516779577128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 66
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b7b61fd1766910800000000000000
+      internalID: 1830275501545468549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc976cbbb5d37dca0800000000000000
+      internalID: -5992253314991490612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef914e282822b260800000000000000
+      internalID: 7111790914611290082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c4e4daa4217c320800000000000000
+      internalID: 2578049423637367925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_164
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2952f1697010d5ee0800000000000000
+      internalID: -1270858387753589358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 66
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33113d66cf284db50800000000000000
+      internalID: 6617057773082579251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2514f44bf1c17790800000000000000
+      internalID: -7534027416676330197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebd7d4532c3e4a70800000000000000
+      internalID: 8813047643255593952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084ab20f9f896790800000000000000
+      internalID: -7536334588319479795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 66
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaef103133f646b0800000000000000
+      internalID: -5312291317850576211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_170
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 66
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd48f7296601e9d0800000000000000
+      internalID: -2746907249007374910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 66
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8e0afad8b3d5840800000000000000
+      internalID: 5214389423287888088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99549b02fc64fc0800000000000000
+      internalID: -3510891120034473518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef29ed71cc4e8e80800000000000000
+      internalID: -8174511879706038298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ced94ac99a19510800000000000000
+      internalID: 1554209836661337157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d337bb3c0883f10800000000000000
+      internalID: 2249689592023432562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fdac26b12d9e710800000000000000
+      internalID: 1723139347509337960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El negrito de la salsa_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c29689ecddaa070800000000000000
+      internalID: 8118545157678771255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
