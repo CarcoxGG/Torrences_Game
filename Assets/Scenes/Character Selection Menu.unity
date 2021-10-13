@@ -990,11 +990,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mujer1
       objectReference: {fileID: 0}
+    - target: {fileID: 8917129431052686502, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8917129431052686520, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1404732003697630690, guid: 0c8deae6cf307ef428b42c0c2647485a,
+      objectReference: {fileID: -4954387176019650228, guid: 3aa09e10856f54a4abb52649a31fde9b,
         type: 3}
     - target: {fileID: 8917129431052686523, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
         type: 3}
@@ -1064,6 +1069,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Negrito_Salsa
+      objectReference: {fileID: 0}
+    - target: {fileID: 8917129431052686502, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8917129431052686520, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
         type: 3}
@@ -1139,6 +1149,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Personaje1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1385434633355065757, guid: 7cc7064aef2a7b345a65f5ab487b7e87,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1385434633355065758, guid: 7cc7064aef2a7b345a65f5ab487b7e87,
         type: 3}
@@ -1301,6 +1316,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mujer2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902744334869309894, guid: bade0c57c79b82e41987581aba76c30a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1902744334869309915, guid: bade0c57c79b82e41987581aba76c30a,
         type: 3}

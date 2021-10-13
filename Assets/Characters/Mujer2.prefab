@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8120088724087355608}
   - component: {fileID: -1653172180525335918}
   - component: {fileID: -7255459586011225419}
-  m_Layer: 0
+  m_Layer: 20
   m_Name: Mujer2
   m_TagString: Player
   m_Icon: {fileID: 0}
