@@ -8,6 +8,8 @@ public class Camara : MonoBehaviour
     public float smoothing;
     public Vector2 maxPosition;
     public Vector2 minPosition;
+    public GameObject player;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -17,7 +19,10 @@ public class Camara : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-        if(transform.position != target.position)
+        player = GameObject.FindGameObjectWithTag("Player");
+        target = player.transform;
+
+        if (transform.position != target.position)
         {
             Vector3 targetPosition = new Vector3(target.position.x, target.position.y, transform.position.z);
 
