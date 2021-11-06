@@ -97,14 +97,28 @@ TextureImporter:
       name: botones 1_0
       rect:
         serializedVersion: 2
-        x: 770
-        y: 692
-        width: 378
-        height: 159
+        x: 747
+        y: 119
+        width: 414
+        height: 186
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 207, y: -93}
+        - {x: 207, y: -93}
+        - {x: 74, y: -93}
+        - {x: -26, y: -93}
+        - {x: -136, y: -93}
+        - {x: -189, y: -93}
+        - {x: -205, y: -76}
+        - {x: -197, y: 80}
+        - {x: -181, y: 93}
+        - {x: -43, y: 90}
+        - {x: 184, y: 93}
+        - {x: 201, y: 82}
+        - {x: 207, y: 68}
+        - {x: 207, y: -93}
       physicsShape: []
       tessellationDetail: 0
       bones: []

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6ab657247d9be1c4f88dd6290e727106
+guid: 940c17873184f584c87be175a2ae54f2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7273023784349990412
-    second: torrance_test_0
+      213: -8291541675050989832
+    second: 0aed4481cda0979f2844b59cc80bd1b1_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -94,22 +94,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: torrance_test_0
+      name: 0aed4481cda0979f2844b59cc80bd1b1_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 354
+        width: 353
         height: 286
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0ef5250998fee460800000000000000
-      internalID: 7273023784349990412
+      spriteID: 8f60d3ae6c68eec80800000000000000
+      internalID: -8291541675050989832
       vertices: []
       indices: 
       edges: []
