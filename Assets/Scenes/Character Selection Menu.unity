@@ -1152,6 +1152,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1589179369}
     m_Modifications:
+    - target: {fileID: -8170090148755592604, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
+        type: 3}
+      propertyPath: speed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1231663789766051256, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
         type: 3}
       propertyPath: m_Size.x
@@ -1181,6 +1186,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y
       value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3745392878453164097, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8917129431052686502, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
         type: 3}
@@ -1262,6 +1272,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1589179369}
     m_Modifications:
+    - target: {fileID: -8170090148755592604, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
+        type: 3}
+      propertyPath: speed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1231663789766051256, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
         type: 3}
       propertyPath: m_Size.x
@@ -1281,6 +1296,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Offset.y
       value: -0.2575418
+      objectReference: {fileID: 0}
+    - target: {fileID: 3745392878453164097, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8917129431052686502, guid: 094076ea8200d264db0e9bfe2aa5cc9e,
         type: 3}
@@ -1362,6 +1382,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1589179369}
     m_Modifications:
+    - target: {fileID: -1497712033085051575, guid: 7cc7064aef2a7b345a65f5ab487b7e87,
+        type: 3}
+      propertyPath: speed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1340769602629653428, guid: 7cc7064aef2a7b345a65f5ab487b7e87,
         type: 3}
       propertyPath: m_Size.x
@@ -1446,6 +1471,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8169980218067777956, guid: 7cc7064aef2a7b345a65f5ab487b7e87,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7cc7064aef2a7b345a65f5ab487b7e87, type: 3}
@@ -1549,6 +1579,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1589179369}
     m_Modifications:
+    - target: {fileID: -1653172180525335918, guid: bade0c57c79b82e41987581aba76c30a,
+        type: 3}
+      propertyPath: speed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1902744334869309894, guid: bade0c57c79b82e41987581aba76c30a,
         type: 3}
       propertyPath: m_Name
@@ -1613,6 +1648,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5935085591487886625, guid: bade0c57c79b82e41987581aba76c30a,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8120088724087355608, guid: bade0c57c79b82e41987581aba76c30a,
         type: 3}
