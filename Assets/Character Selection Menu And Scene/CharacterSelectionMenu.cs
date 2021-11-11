@@ -57,8 +57,8 @@ public class CharacterSelectionMenu : MonoBehaviour
     public void StartGame()
     {
         PlayerPrefs.SetInt(selectedCharacterDataName, selectedCharacter);
-        SceneManager.LoadScene(gameScene);
-        Debug.Log(selectedCharacter);
     }
+
+   
 
 }
